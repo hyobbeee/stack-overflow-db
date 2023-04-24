@@ -1,17 +1,19 @@
-[
-  {
-    "id": 1,
-    "title": "테스트 중입니다.",
-    "totalVote": 10,
-    "answerCount": 3,
-    "account": {
-      "id": 0,
-      "profile": "kimcoding",
-      "nickname": "cuteboy"
-    },
-    "userId": 12345,
-    "questionTitle": "'Inquirer will not wait to select in async function, JavascriptInquirer will not wait to select in async function,'",
-    "createdAt": "2022-10-27",
-    "modifiedAt": "2022-10-28"
-  }
-]
+{
+  "test": [
+    {
+      "id": 1,
+      "title": "테스트 중입니다.",
+      "totalVote": 10,
+      "answerCount": 3,
+      "account": {
+        "id": 0,
+        "profile": "kimcoding",
+        "nickname": "cuteboy"
+      },
+      "userId": 12345,
+      "questionTitle": "'Inquirer will not wait to select in async function, JavascriptInquirer will not wait to select in async function,'",
+      "createdAt": "2022-10-27",
+      "modifiedAt": "2022-10-28"
+    }
+  ]
+}
