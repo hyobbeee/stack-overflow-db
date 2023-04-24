@@ -1,4 +1,4 @@
-const questionsData = [
+[
   {
     questionId: 1,
     userId: 12345,
