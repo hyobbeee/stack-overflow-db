@@ -14,6 +14,24 @@
       "questionTitle": "'Inquirer will not wait to select in async function, JavascriptInquirer will not wait to select in async function,'",
       "createdAt": "2022-10-27",
       "modifiedAt": "2022-10-28"
+    },
+     {
+      "id": 2,
+      "title": "테스트 2",
+      "totalVote": 1000,
+      "answerCount": 1111111,
+      "views": 30000, 
+      "selectedAnswer": 123,
+      "content": "김수한무거북이와두루미삼천갑자",
+      "account": {
+        "id": 2,
+        "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
+        "nickname": "cutegirl"
+      },
+      "userId": 102,
+      "questionTitle": "hihi",
+      "createdAt": "2022-10-27",
+      "modifiedAt": "2022-10-28"
     }
   ]
 }
