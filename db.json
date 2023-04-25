@@ -1,126 +1,76 @@
 {
-  "test": [
+  "questions": [
     {
       "id": 1,
-      "title": "테스트 중입니다.",
-      "totalVote": 10,
+      "title": "첫 번째 질문",
+      "totalVote": 1,
+      "answerCount": 1,
+      "viewCount": 10,
+      "selectedAnswer": 10,
+      "content": "첫 번째 질문 내용입니다.",
+      "account": {
+        "id": 1,
+        "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
+        "nickname": "cutegirl"
+      },
+      "userId": 1,
+      "questionTitle": "hihi",
+      "createdAt": "2023-02-27",
+      "modifiedAt": "2023-03-28"
+    },
+    {
+      "id": 2,
+      "title": "두 번째 질문",
+      "totalVote": 2,
+      "answerCount": 2,
+      "viewCount": 20,
+      "selectedAnswer": 20,
+      "content": "두 번째 질문 내용입니다.",
+      "account": {
+        "id": 2,
+        "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
+        "nickname": "cutecat"
+      },
+      "userId": 2,
+      "questionTitle": "meow",
+      "createdAt": "2023-02-28",
+      "modifiedAt": "2023-03-29"
+    },
+    {
+      "id": 3,
+      "title": "세 번째 질문",
+      "totalVote": 3,
       "answerCount": 3,
+      "viewCount": 30,
+      "selectedAnswer": 30,
+      "content": "세 번째 질문 내용입니다.",
       "account": {
-        "id": 0,
-        "profile": "kimcoding",
-        "nickname": "cuteboy"
-      },
-      "userId": 12345,
-      "questionTitle": "'Inquirer will not wait to select in async function, JavascriptInquirer will not wait to select in async function,'",
-      "createdAt": "2022-10-27",
-      "modifiedAt": "2022-10-28"
-    },
-     {
-      "id": 2,
-      "title": "안녕하세요, 내일 저녁은 뭘먹을까요?",
-      "totalVote": 1000,
-      "answerCount": 1111111,
-      "viewCount": 30000, 
-      "selectedAnswer": 123,
-      "content": "김수한무거북이와두루미삼천갑자",
-      "account": {
-        "id": 2,
+        "id": 3,
         "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
-        "nickname": "cutegirl"
+        "nickname": "cutepuppy"
       },
-      "userId": 102,
-      "questionTitle": "hihi",
-      "createdAt": "2023-02-27",
-      "modifiedAt": "2023-03-28"
+      "userId": 3,
+      "questionTitle": "woof",
+      "createdAt": "2023-03-01",
+      "modifiedAt": "2023-03-30"
     },
     {
-      "id": 2,
-      "title": "안녕하세요, 내일 저녁은 뭘먹을까요?",
-      "totalVote": 1000,
-      "answerCount": 1111111,
-      "viewCount": 30000, 
-      "selectedAnswer": 123,
-      "content": "김수한무거북이와두루미삼천갑자",
+      "id": 4,
+      "title": "네 번째 질문",
+      "totalVote": 4,
+      "answerCount": 4,
+      "viewCount": 40,
+      "selectedAnswer": 40,
+      "content": "네 번째 질문 내용입니다.",
       "account": {
-        "id": 2,
+        "id": 4,
         "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
-        "nickname": "cutegirl"
+        "nickname": "cutemonkey"
       },
-      "userId": 102,
-      "questionTitle": "hihi",
-      "createdAt": "2023-02-27",
-      "modifiedAt": "2023-03-28"
-    },
-    {
-      "id": 2,
-      "title": "안녕하세요, 내일 저녁은 뭘먹을까요?",
-      "totalVote": 1000,
-      "answerCount": 1111111,
-      "viewCount": 30000, 
-      "selectedAnswer": 123,
-      "content": "김수한무거북이와두루미삼천갑자",
-      "account": {
-        "id": 2,
-        "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
-        "nickname": "cutegirl"
-      },
-      "userId": 102,
-      "questionTitle": "hihi",
-      "createdAt": "2023-02-27",
-      "modifiedAt": "2023-03-28"
-    },
-    {
-      "id": 2,
-      "title": "안녕하세요, 내일 저녁은 뭘먹을까요?",
-      "totalVote": 1000,
-      "answerCount": 1111111,
-      "viewCount": 30000, 
-      "selectedAnswer": 123,
-      "content": "김수한무거북이와두루미삼천갑자",
-      "account": {
-        "id": 2,
-        "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
-        "nickname": "cutegirl"
-      },
-      "userId": 102,
-      "questionTitle": "hihi",
-      "createdAt": "2023-02-27",
-      "modifiedAt": "2023-03-28"
-    },{
-      "id": 2,
-      "title": "안녕하세요, 내일 저녁은 뭘먹을까요?",
-      "totalVote": 1000,
-      "answerCount": 1111111,
-      "viewCount": 30000, 
-      "selectedAnswer": 123,
-      "content": "김수한무거북이와두루미삼천갑자",
-      "account": {
-        "id": 2,
-        "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
-        "nickname": "cutegirl"
-      },
-      "userId": 102,
-      "questionTitle": "hihi",
-      "createdAt": "2023-02-27",
-      "modifiedAt": "2023-03-28"
-    },
-    {
-      "id": 2,
-      "title": "안녕하세요, 내일 저녁은 뭘먹을까요?",
-      "totalVote": 1000,
-      "answerCount": 1111111,
-      "viewCount": 30000, 
-      "selectedAnswer": 123,
-      "content": "김수한무거북이와두루미삼천갑자",
-      "account": {
-        "id": 2,
-        "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
-        "nickname": "cutegirl"
-      },
-      "userId": 102,
-      "questionTitle": "hihi",
-      "createdAt": "2023-02-27",
-      "modifiedAt": "2023-03-28"
+      "userId": 4,
+      "questionTitle": "ooh ooh aah aah",
+      "createdAt": "2023-03-02",
+      "modifiedAt": "2023-03-31"
     }
   ]
 }
