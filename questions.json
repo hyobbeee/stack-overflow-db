@@ -1,0 +1,79 @@
+{
+  "questions": [
+  {
+    "id": 1,
+    "title": "첫 번째 질문",
+    "totalVote": 1,
+    "answerCount": 1,
+    "viewCount": 10,
+    "selectedAnswer": 10,
+    "content": "첫 번째 질문 내용입니다.",
+    "account": {
+      "id": 1,
+      "profile": "https://www.gravatar.com/avatar/9b1afacb856fcd8f8d8722e01aa648ae?s=32&d=identicon&r=PG&f=1",
+      "nickname": "cutegirl"
+    },
+    "userId": 1,
+    "questionTitle": "hihi",
+    "createdAt": "2023-02-27",
+    "modifiedAt": "2023-03-28"
+  },
+  {
+    "id": 2,
+    "title": "두 번째 질문",
+    "totalVote": 2,
+    "answerCount": 2,
+    "viewCount": 20,
+    "selectedAnswer": 20,
+    "content": "두 번째 질문 내용입니다.",
+    "account": {
+      "id": 2,
+      "profile": "https://www.gravatar.com/avatar/64d4bed33b2e91fb54a1bde722e859b4?s=32&d=identicon&r=PG&f=1",
+      "nickname": "cuteboy"
+    },
+    "userId": 2,
+    "questionTitle": "hello",
+    "createdAt": "2023-01-01",
+    "modifiedAt": "2023-03-28"
+  },
+  {
+    "id": 3,
+    "title": "세 번째 질문",
+    "totalVote": 3,
+    "answerCount": 3,
+    "viewCount": 30,
+    "selectedAnswer": 30,
+    "content": "세 번째 질문 내용입니다.",
+    "account": {
+      "id": 3,
+      "profile": "https://www.gravatar.com/avatar/5b5d5f6ae9f05a5c8d558b59f06b3f10?s=32&d=identicon&r=PG&f=1",
+      "nickname": "cutepanda"
+    },
+    "userId": 3,
+    "questionTitle": "안녕하세요",
+    "createdAt": "2023-03-15",
+    "modifiedAt": "2023-03-28"
+  },
+  {
+    "id": 4,
+    "title": "네 번째 질문",
+    "totalVote": 4,
+    "answerCount": 4,
+    "viewCount": 40,
+    "selectedAnswer": 40,
+    "content": "네 번째 질문 내용입니다.",
+    "account": {
+      "id": 4,
+      "profile": "https://www.gravatar.com/avatar/509c00d067ba32b9ce16858cbb8d0c4f?s=32&d=identicon&r=PG&f=1",
+      "nickname": "cutecat"
+    },
+    "userId": 4,
+    "questionTitle": "반갑습니다",
+    "createdAt": "2023-02-01",
+    "modifiedAt": "2023-03-28"
+  },
+  "page": 1,
+  "size": 10,
+  "total_pages": 5,
+  "total_questions": 50
+}
